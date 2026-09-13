@@ -1,0 +1,30 @@
+<html>
+    <title>Часы</title>
+    <body>
+        <header style="background-color: navy">
+            <a href="#info" style="color: white; font-size: 25px">Информация</a> 
+        </header>
+        <main style="text-align: center; font-family:sans-serif; color: navy;">
+            <h1 style="font-size: 40px">Как выбрать часы?</h1>
+            <p style="font-size: 20px">Выбрать наручные часы проще всего, если сразу определиться с типом механизма, материалом корпуса и вашим стилем жизни</p>
+            <img src="https://g1.sunlight.net/r/w400/q91/media/products/68617743ec2fc9fb3dd463f265eeb6981e2efb15.jpg" width="400px" height="400px">
+            <h2 id="info" style="font-size: 30px">Актуальная информация</h2>
+            <p style="font-size: 20px">В 2026 году главными трендами часовой моды стали элегантность, компактные корпуса (без гигантских размеров под 50 мм), а также яркие фактурные циферблаты и легкие материалы вроде титана. )</p>
+            <table>
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </table>
+        </main>
+        <footer style="text-align: center; font-family:sans-serif; color: white;background-color: navy">
+            <p>Наш номер: 89280000013</p>
+            <p>наш адрес:Ул. часовня,13</p>
+            <p>Наша почта:ludshhiechasityt@mail.com</p>
+        </footer>
+    </body>
+</html>
